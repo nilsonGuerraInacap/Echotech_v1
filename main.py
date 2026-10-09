@@ -1,1 +1,1 @@
-print("hola alumnos trabajen no molestar al profe")
+print("hola alumnos trabajen ")
